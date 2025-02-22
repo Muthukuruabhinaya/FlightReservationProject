@@ -9,7 +9,14 @@ public class Flight {
 		
 	String Flight = value;
 	String Flt = Flight;
-	 System.out.println(Flt);
+
+       if(Flt=Flight)
+	return true;
+	}else
+	{
+	 return false;
+
+	
 	
 		// TODO Auto-generated method stub
 
